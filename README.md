@@ -2,7 +2,6 @@
 
 同步 [中国政府网](http://www.gov.cn/) 数据。
 
-
 #### 使用
 
 直接获取需要的年份 json，如 2022 年：
@@ -12,13 +11,14 @@ https://raw.githubusercontent.com/lecepin/chinese-holidays-query/main/2022.json
 ```
 
 国内加速：
+
 ```
 https://github.91chi.fun/https://raw.githubusercontent.com/lecepin/chinese-holidays-query/main/2022.json
 ```
 
-
-
 ### API
+
+<img src="https://user-images.githubusercontent.com/11046969/160060700-1ef8a57b-4e97-4cef-a655-73094c99766e.png" width="400" />
 
 - `holiday: 清明节`，20220403、20220404、20220405
 - `holiday_today: 节日当天`，20220405
