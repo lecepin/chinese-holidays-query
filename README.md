@@ -14,6 +14,8 @@ https://raw.githubusercontent.com/lecepin/chinese-holidays-query/main/2022.json
 
 ```
 https://github.91chi.fun/https://raw.githubusercontent.com/lecepin/chinese-holidays-query/main/2022.json
+https://raw.staticdn.net/lecepin/chinese-holidays-query/main/2022.json
+https://cdn.jsdelivr.net/gh/lecepin/chinese-holidays-query@main/2020.json
 ```
 
 ### API
